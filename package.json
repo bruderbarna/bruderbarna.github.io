@@ -1,0 +1,10 @@
+{
+  "name": "dalmabrudertattoo",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "Barna Bruder",
+    "email": "bruder.barna@gmail.com"
+  }
+}
